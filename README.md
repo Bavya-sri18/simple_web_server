@@ -1,6 +1,6 @@
 # EX01 Developing a Simple Webserver
 
-# Date: 04.12.2024
+# Date: 07.10.2024
 # AIM:
 To develop a simple webserver to serve html pages and display the configuration details of laptop.
 
@@ -131,7 +131,8 @@ httpd= HTTPServer(server_address,MyServer)
 httpd.serve_forever()
 ```
 # OUTPUT:
-![alt text](<device specification.png>)
+![device specification-1](https://github.com/user-attachments/assets/4acfb26c-b38c-4353-9d66-954c2b21030e)
+
 
 ![alt text](terminal.png)
 # RESULT:
